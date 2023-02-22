@@ -1,0 +1,237 @@
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.exe
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.deps.json
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.json
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\scopedcss\bundle\APICRUD.styles.css
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\APICRUD.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CopyComplete
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\refint\APICRUD.dll
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.pdb
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.genruntimeconfig.cache
+C:\Users\Admin\Desktop\APICRUD\APICRUD\obj\Debug\net5.0\ref\APICRUD.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.exe
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.deps.json
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.json
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.dev.json
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\scopedcss\bundle\APICRUD.styles.css
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\APICRUD.StaticWebAssets.Manifest.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.RazorTargetAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\refint\APICRUD.dll
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.pdb
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Escritorio\HTML y CSS\APICRUD\APICRUD\obj\Debug\net5.0\ref\APICRUD.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.exe
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.deps.json
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.json
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.dev.json
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\APICRUD.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.AssemblyReference.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfoInputs.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfo.cs
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CoreCompileInputs.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\scopedcss\bundle\APICRUD.styles.css
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\APICRUD.StaticWebAssets.Manifest.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\APICRUD.StaticWebAssets.Pack.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\msbuild.APICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\msbuild.build.APICRUD.props
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.APICRUD.props
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.APICRUD.props
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.RazorTargetAssemblyInfo.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CopyComplete
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\refint\APICRUD.dll
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.pdb
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\APICRUD.genruntimeconfig.cache
+C:\Users\samro\OneDrive\Escritorio\APICRUD\APICRUD\obj\Debug\net5.0\ref\APICRUD.dll
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.csproj.AssemblyReference.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfoInputs.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.AssemblyInfo.cs
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CoreCompileInputs.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.dll
+D:\apis\APICRUD\obj\Debug\net5.0\refint\APICRUD.dll
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\appsettings.Development.json
+D:\apis\APICRUD\bin\Debug\net5.0\appsettings.json
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.exe
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.deps.json
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.json
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.runtimeconfig.dev.json
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.dll
+D:\apis\APICRUD\bin\Debug\net5.0\APICRUD.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\Humanizer.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\apis\APICRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\apis\APICRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\apis\APICRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\apis\APICRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\apis\APICRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\apis\APICRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\apis\APICRUD\obj\Debug\net5.0\scopedcss\bundle\APICRUD.styles.css
+D:\apis\APICRUD\obj\Debug\net5.0\staticwebassets\APICRUD.StaticWebAssets.Manifest.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.RazorTargetAssemblyInfo.cache
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.csproj.CopyComplete
+D:\apis\APICRUD\obj\Debug\net5.0\APICRUD.genruntimeconfig.cache
+D:\apis\APICRUD\obj\Debug\net5.0\ref\APICRUD.dll
